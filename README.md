@@ -1,4 +1,4 @@
-# React App
+# React Apps
 
 Repositorio com o  bjetivo de mostrar o desenvolvimento ao longo do estudo da biblioteca React.
 Cada pasta contem a descricao do projeto desenvolvido e sua origem, incluindo bootcamps, cursos e aceleracoes.
