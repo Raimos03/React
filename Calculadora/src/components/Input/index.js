@@ -1,11 +1,11 @@
-import {InputContainer} from 'styled-components';
+import {InputContainer} from './style';
 
 
 const Input = () => {
     return (
-      <div className="App">
-        Input
-      </div>
+      <InputContainer>
+        <input disabled/>
+      </InputContainer>
     );
   }
   
