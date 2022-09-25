@@ -15,7 +15,7 @@ export const InputContainer=styled.div`
     border-radius:0.5px;
 
     input{
-        width: 91%;
+        width: 97.7%;
         height:74px;
         border:0;
         flex-direction:column;
@@ -24,7 +24,7 @@ export const InputContainer=styled.div`
         left: -1.1px;
 
         padding: 0 10px;
-        background-color: #AAFA;
+        background-color: #effF;
         color:##FFFFFF;
 
 

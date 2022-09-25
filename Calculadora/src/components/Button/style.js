@@ -11,6 +11,7 @@ export const ButtonContainer= styled.button`
     font-weight: 500;
     flex: 1;
     border-radius: 3px;
+    height: 60.7px;
 
     &:hover{
         background-color: #00CAFA;

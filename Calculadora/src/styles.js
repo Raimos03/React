@@ -13,6 +13,7 @@ export const Content = styled.div`
     background-color: #FFFFFF;
     width: 50%;
     border-radius: 8px;
+    height: 40%;
 `
 
 export const Row = styled.div`
